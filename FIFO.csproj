@@ -54,5 +54,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Graphs\example.png" />
+    <Content Include="Graphs\graph1.png" />
+    <Content Include="Graphs\graph2.png" />
+    <Content Include="Graphs\graph3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
